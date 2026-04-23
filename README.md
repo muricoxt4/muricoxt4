@@ -21,7 +21,7 @@ Nasci em Castro/PR, sou graduado em **História pela UEPG** e tenho uma trajetó
 
 Passei por suporte técnico, supervisão comercial e gestão de equipes antes de me especializar em **Customer Success B2B**, onde acumulei mais de **3 anos de experiência sólida** em onboarding, retenção, upsell e gestão estratégica de contas.
 
-Hoje atuo também como **Scrum Master**, facilitando times ágeis e removendo impedimentos com leveza. E estou em transição ativa para o **desenvolvimento Back-end**, conectando dados, processos, marketing e tecnologia.
+Hoje atuo também como **Scrum Master**, aplicando metodologias ágeis e removendo impedimentos com leveza. E estou em transição ativa para o **desenvolvimento Back-end**, conectando dados, processos, marketing e tecnologia.
 
 ```text
 Customer Success   ████████████████████░░  3+ anos
