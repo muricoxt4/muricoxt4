@@ -141,7 +141,7 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=muricoxta&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=muricoxt4&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
