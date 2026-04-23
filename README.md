@@ -56,7 +56,7 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 ---
 
-## 💼 Experiência
+## 💼 Experiência (clica em ➡️ para ver +!)
 
 <details>
 <summary><strong>🟢 Scrum Master — Persona Publicidade</strong> &nbsp;<code>Dez 2025 – Presente</code></summary>
