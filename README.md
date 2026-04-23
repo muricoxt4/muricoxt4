@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murillo-costa-a9251b273)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhlc22@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muricoxt4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muricoxta)
 [![Localização](https://img.shields.io/badge/Ponta_Grossa,_PR-Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -63,10 +63,10 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 <br/>
 
-- Aplica e promove o **framework Scrum**, garantindo a adoção da cultura ágil em toda a organização
-- Facilita cerimônias ágeis (Planning, Daily, Review, Retrospective) de forma eficiente e focada
-- Identifica e remove impedimentos, promovendo melhoria contínua de processos
-- Elabora **POPs, documentações e dashboards** de indicadores para suporte à tomada de decisão
+- Aplico e promovo o **framework Scrum**, garantindo a adoção da cultura ágil em toda a organização
+- Facilito cerimônias ágeis (Planning, Daily, Review, Retrospective) de forma eficiente e focada
+- Identifico e removo impedimentos, promovendo melhoria contínua de processos
+- Elaboro **POPs, documentações e dashboards** de indicadores para suporte à tomada de decisão
 
 </details>
 
@@ -75,9 +75,9 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 <br/>
 
-- Gerencia carteira de clientes com tickets elevados, atuando como elo estratégico entre cliente e equipes internas
-- Implementou o **framework ágil de organização das equipes**, reduzindo retrabalho e melhorando previsibilidade
-- Criou biblioteca de processos e **dashboards com métricas e KPIs** para monitoramento contínuo
+- Gerencio carteira de clientes com tickets elevados, atuando como elo estratégico entre cliente e equipes internas
+- Implementei o **framework ágil de organização das equipes**, reduzindo retrabalho e melhorando previsibilidade
+- Criei uma biblioteca de processos e **dashboards com métricas e KPIs** para monitoramento contínuo
 
 </details>
 
@@ -86,9 +86,9 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 <br/>
 
-- Gerenciou a jornada completa do cliente em **plataforma SaaS** voltada a provedores de internet e grandes empresas (Decathlon, Algar Telecom, Hospital Care)
-- Conduziu estratégias de retenção, reversão de cancelamentos e upsell/cross-sell
-- 🏆 **Case de sucesso:** dobrou as vendas de um provedor em MG por meio de uso estratégico da plataforma
+- Gerenciei a jornada completa do cliente em **plataforma SaaS** voltada a provedores de internet e grandes empresas (Decathlon, Algar Telecom, Hospital Care)
+- Conduzi estratégias de retenção, reversão de cancelamentos e upsell/cross-sell
+- 🏆 **Meu case de sucesso:** dobrei as vendas de um provedor em MG por meio do uso estratégico da plataforma
 
 </details>
 
@@ -97,9 +97,9 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 <br/>
 
-- Liderou equipe de **8 colaboradores** distribuídos em três cidades, coordenando vendas B2B
-- Elaborou relatórios de vendas, comissões e indicadores de performance
-- Responsável pelos processos de admissão e desligamento do departamento comercial
+- Liderei equipe de **8 colaboradores** distribuídos em três cidades, coordenando vendas B2B
+- Elaborei relatórios de vendas, comissões e indicadores de performance
+- Fui responsável pelos processos de admissão e desligamento do departamento comercial
 
 </details>
 
@@ -108,8 +108,8 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 <br/>
 
-- Gerenciou equipe de aproximadamente **15 técnicos** (interno e externo)
-- Mediou a relação entre técnicos e clientes, solucionando problemas com agilidade
+- Gerenciei equipe de aproximadamente **15 técnicos** (interno e externo)
+- Mediei a relação entre técnicos e clientes, solucionando problemas técnicos e interpessoais com agilidade
 
 </details>
 
@@ -134,9 +134,14 @@ Back-end Dev       ████░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muricoxta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=muricoxta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muricoxta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muricoxta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muricoxta&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
